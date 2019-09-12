@@ -383,6 +383,16 @@ ModelResults <-
 names(ModelResults)
 
 
+## Add on: Use Tidymodels to generate a Gain And Lift Chart:
+## Yardstick:
+
+install.packages('tidymodels')
+
+library(tidymodels)
+
+
+
+
 # <Continue Learning>
 
 ## Further Resources:
